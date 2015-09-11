@@ -1,1 +1,15 @@
-Upload your project proposal here...
+
+Project Idea : Portal Factory
+
+##  If to create a android app for the designing a portal, It takes a lot of time to design such portals even 
+when they have some common features. 
+So, we are  creating  a platform wherecan generate customisable portals easily. 
+Once the Category of portal is selected, one can upload the necessary details and the portal can be set up automatically. 
+For a start, we are making the platform for atleast 5 portals -
+- Hostel,
+- Mess,
+- Courses,
+- Students, 
+- Library.  
+
+We are  working on the functional  requirements of each portal. 
